@@ -29,15 +29,11 @@ HOW TO USE:
 
 2. Then copy your personal API key and paste in the empty file "TOKEN.txt".
 
-3. After that, create new bot in Telegram. Type \start to BotFather and follow the instructions. Copy token of your new bot and paste in the empty file "BOT_TOKEN.txt"
+3. After that, create new bot in Telegram. Type \start to BotFather and follow the instructions. Copy token of your new bot and paste in the empty file "BOT_TOKEN.txt".
 
-4. Open cmd and type "cd C:\...\per_aspera_ad_astra"
+4. Open cmd and type "cd C:\...\per_aspera_ad_astra".
 
-5. Download requirements:
-   - requests
-   - Pillow
-   - os
-   - pyTelegramBotAPI
+5. Download requirements.
 
 6. Type "python script.py" in cmd and send "start" to your bot.
 
