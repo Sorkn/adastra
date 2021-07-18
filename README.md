@@ -3,7 +3,7 @@ WHAT IS IT:
 
 It is a telegram bot created to help people find out how good is their location for night sky observations. Type your location, month and time in which you are going to watch the sky and get:
 
-- Address of location
+- Address of the location
 
 - Your timezone
 
@@ -17,7 +17,7 @@ It is a telegram bot created to help people find out how good is their location 
 
 - SQM and NELM of your location
 
-If your location placed in the midle of nowhere, you will get a random fact about Chuck Norris as a consolation prize.
+If your location placed in the middle of nowhere, you will get a random fact about Chuck Norris as a consolation prize.
 
 
 *****************
