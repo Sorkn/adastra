@@ -31,7 +31,7 @@ HOW TO USE:
 
 3. After that, create new bot in Telegram. Type \start to BotFather and follow the instructions. Copy token of your new bot and paste in the empty file "BOT_TOKEN.txt"
 
-4. Open cmd and type "cd C:\...\ad_astra_bot"
+4. Open cmd and type "cd C:\...\per_aspera_ad_astra"
 
 5. Download requirements:
    - requests
