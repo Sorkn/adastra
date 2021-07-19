@@ -77,6 +77,7 @@ def set_time(user_message):
 # Generating answer
 
 def result(user_message):
+    global location, month, time # added at 15:13 19.07.2021
     var = AdAstra(location, month, time)
     results = var()
     # This dict we get when exception was thrown
